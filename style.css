@@ -162,3 +162,17 @@ a{
 
 }
 
+/* footer */
+.footer{
+    background-color: rgb(27, 35, 41);
+}
+
+.footer-icon{
+    color:rgb(203, 2, 203);
+    margin-right: 70px;
+    font-size:40px;
+    font-weight: 700;
+    font-family: cursive;
+}
+
+
