@@ -87,11 +87,20 @@ a{
     justify-content: space-between;
   
 }
+.hero-wb{
+    color: blueviolet;
+}
+span{
+    color:blueviolet;
+    text-shadow: 2px 2px 2px rgb(176, 190, 85);
+}
+
 .hero-title {
     width: 100%;
-    max-width: 500px;
+    max-width: 600px;
     font-size: 60px;
-    font-weight:900;
+    font-weight:500;
+    word-spacing: 0.02px;
     color:#fff;
     text-shadow: 2px 2px 2px rgb(99, 11, 92);
 }
